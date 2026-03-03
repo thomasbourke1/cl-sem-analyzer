@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-src/cl_sem_analyzer.egg-info/PKG-INFO
-src/cl_sem_analyzer.egg-info/SOURCES.txt
-src/cl_sem_analyzer.egg-info/dependency_links.txt
-src/cl_sem_analyzer.egg-info/requires.txt
-src/cl_sem_analyzer.egg-info/top_level.txt
-src/sem_cl_analyzer/__init__.py
